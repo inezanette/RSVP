@@ -12,6 +12,13 @@ body {
     margin: 0;
 }
 
+.form {
+      border: 1px solid;
+      border-radius: 15px;
+      padding: 20px;
+      margin: 0 auto;
+}
+
 h1,
 label,
 legend {
@@ -52,7 +59,7 @@ font-weight: bold;
 
 footer {
     font-size: small;
-    color:slateblue;
+    color:skyblue;
     font-weight: bold;
 }
 
