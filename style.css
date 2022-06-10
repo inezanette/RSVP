@@ -49,6 +49,7 @@ font-weight: bold;
     box-shadow:red 40px;
     margin-top: 1px;
     margin-bottom: 1px;
+    padding: 10px;
   }
 
   .btn:hover{
